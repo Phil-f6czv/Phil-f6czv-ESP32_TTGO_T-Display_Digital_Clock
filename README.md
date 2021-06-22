@@ -25,6 +25,6 @@
 
 <!-- wp:paragraph -->
 <p>Two software versions were developped, one using a button of the TTGO T-Display to switch on or off the display.
-    73 Philippe F6CZV
+    <br>73 Philippe F6CZV
       https://f6czv.fr</p>
 <!-- /wp:paragraph -->
