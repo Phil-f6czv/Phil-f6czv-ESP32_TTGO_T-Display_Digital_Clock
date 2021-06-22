@@ -1,4 +1,8 @@
 # Phil-f6czv-ESP32_TTGO_T-Display_Digital_Clock
+
+![TTGO digital clock](https://user-images.githubusercontent.com/66089487/122945377-d3548500-d378-11eb-9c4a-5b33b648e5db.jpg)
+
+
 <!-- wp:paragraph -->
 <p>In ham-radio digital mode transmissions some protocols (WSPR, FT8, ...) require a synchronization of the order of one second between all stations.</p>
 <!-- /wp:paragraph -->
